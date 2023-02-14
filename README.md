@@ -1,5 +1,4 @@
-# pig-dice-game
-The Classic Pig (Dice Game) With Some Extra Features. Try it
+
 <a href=#><img src="snake.svg"></a>
 <br>
 <h1 align="center"> <strong> 😎THE PIG(DICE GAME)😎 </strong> </h1> 
