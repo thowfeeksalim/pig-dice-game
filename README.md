@@ -44,4 +44,4 @@ You are playing against the computer. The red triangle indicates the current pla
 </p>
 <br>
 <br>
-<img align="right" alt="coding is fun" width="" src="pig.jpg">
+<img align="center" alt="coding is fun" width="" src="pig.jpg">
