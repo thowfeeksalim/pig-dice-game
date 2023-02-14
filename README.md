@@ -2,7 +2,7 @@
 <a href=#><img src="snake.svg"></a>
 <br>
 <h1 align="center"> <strong> 😎THE PIG(DICE GAME)😎 </strong> </h1> 
-<h1 align="center"><a href="https://thowfeeksalim.github.io/pig-dice-game">Link</a></h1>
+<h1 align="center"><a href="https://thowfeeksalim.github.io/pig-dice-game">Live Demo</a></h1>
 <p align="center">
 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 D𝚎𝚖𝚘 G𝚊𝚖𝚎🎮 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃  ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓🧒)
 </p>
@@ -21,7 +21,7 @@ After that, it's the next player's turn.
 gets added to his GLOBAL score. After that, it's the next player's turn.
 - The first player to reach 100 points on GLOBAL score wins the game.
 
-![screenshot](screenshot.png)
+<!-- ![screenshot](screenshot.png) -->
 
 ## Built with
 
@@ -104,4 +104,7 @@ This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 </p>
 <br>
 <br>
-<img align="center" alt="coding is fun" width="" src="dice.gif">
+
+## ScreenShot
+
+<img align="center" alt="coding is fun" width="" src="screenshot.png">
