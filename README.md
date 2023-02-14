@@ -42,3 +42,6 @@ You are playing against the computer. The red triangle indicates the current pla
   ·
   <a href="https://github.com/thowfeeksalim/pig-dice-game/issues/new/choose">Request Feature</a>
 </p>
+<br>
+<br>
+<img align="right" alt="coding is fun" width="" src="pig.jpg">
